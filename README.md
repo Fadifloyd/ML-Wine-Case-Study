@@ -1,4 +1,4 @@
-# Guide to Practical approach to Machine Learning
+# Wine Case Test Study
 
 This is a classis dataset for classification study. 
 This datast consists of chemical composition of different types of wines taken from 3 different vineyards. We need to predict that whenever a new wine analysis is done, which vineyard this is taken from. 
